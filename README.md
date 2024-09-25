@@ -8,6 +8,7 @@
 - Taking Codecademy Course "Data Engineer" (Career Path course)
 - Working on slot-machine repo (personal project)
 - Getting familiar with Python
+- Taking Codecademy Course "Front-End Engineer"
 
 *** 
 
