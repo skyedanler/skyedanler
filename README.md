@@ -9,6 +9,7 @@
 - Working on slot-machine repo (personal project)
 - Getting familiar with Python
 - Taking Codecademy Course "Front-End Engineer"
+- Working on coding-pages repo (personal project)
 
 *** 
 
