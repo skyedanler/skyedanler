@@ -1,21 +1,16 @@
 # Hello, my name is Skye!
 
-### I have a Bachelor's Degree in Applied Mathematics and I've learned since that coding is something I enjoy doing.
+### I have a Bachelor Degree in Applied Mathematics and a passion for coding!
 
 ***
 
 ## Current Pastimes
-- Taking Codecademy Course "Data Engineer" (Career Path course)
-- Working on slot-machine repo (personal project)
-- Getting familiar with Python
-- Taking Codecademy Course "Front-End Engineer"
-- Working on coding-pages repo (personal project)
+- Learning PHP
+- Working on wedding website (personal project)
+- Enrolled in 'Full Stack Engineer' BootCamp with Codecademy
 
 *** 
 
-## Completed Codecademy Courses
-1. "Learn JavaScript"
-2. "Learn HTML"
-3. "Build a Website with HTML, CSS, and GitHub Pages"
-4. "Building Interactive JavaScript Websites"
-5. "Learn Python 3"
+## Familiar In:
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/user-attachments/assets/900916c3-cc3d-47b9-80a9-f1755fa04854" width="40" height="40" alt="JavaScript" /></a>
+
